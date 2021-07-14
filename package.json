@@ -1,0 +1,14 @@
+{
+  "name": "pa11y-test",
+  "version": "0.0.1",
+  "main": "index.html",
+  "repository": "https://www.github.com/kaydelaney/pa11y-test",
+  "author": "kay delaney <kay@grafana.com>",
+  "license": "MIT",
+  "scripts": {
+    "pa11y": "pa11y-ci"
+  },
+  "devDependencies": {
+    "pa11y-ci": "^2.4.2"
+  }
+}
